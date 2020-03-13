@@ -1,4 +1,10 @@
 {
+  "go.addTags": {
+    "tags": "json,yaml",
+    "options": "json=omitempty",
+    "promptForTags": false,
+    "transform": "snakecase"
+  },
   "psi-header.config": {
     "forceToTop": true,
     "author": "Zoe",
